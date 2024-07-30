@@ -1,4 +1,4 @@
-# SFTP
+# INSTALL SFTP SERVER
 # Update & Upgrade Sistem
 ```
 sudo apt update && sudo apt upgrade
